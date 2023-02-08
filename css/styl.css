@@ -1,0 +1,16 @@
+#footer {
+  background: #404040;
+  padding: 0 0 10px;
+  color: #fff;
+  font-size: 14px;
+}
+#footer .copyright {
+  text-align: center;
+  padding-top: 30px;
+}
+#footer .credits {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #fff;
+}
